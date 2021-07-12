@@ -8,9 +8,8 @@
 На тестирование затрачено: 2 часов
 
 В результате тестирования выявлены следующие дефекты (cмотри Issues данного репозитория): 
-* https://github.com/Dmitruzd21/KeyValidator/issues/1
-* https://github.com/Dmitruzd21/KeyValidator/issues/2
-* https://github.com/Dmitruzd21/KeyValidator/issues/3
+* [Провальная валидация валидных ключей](https://github.com/Dmitruzd21/KeyValidator/issues/1)
+* [Провальная валидация невалидного ключа "2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1"](https://github.com/Dmitruzd21/KeyValidator/issues/3)
 
 ## Описание процесса тестирования
 
